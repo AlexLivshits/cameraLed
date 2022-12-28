@@ -1,0 +1,14 @@
+Files:
+  server.cpp
+  client.cpp
+  makefile
+
+Building:
+  make
+
+Output:
+  "server" and "client" files
+
+Usage:
+  1) run server
+  2) run client with command as argument, example "./client set-led-color green", "./client get-led-color".
