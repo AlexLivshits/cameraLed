@@ -66,7 +66,7 @@ int main()
         }
     };
 //
-//opeping port
+//opening port
     char buf[2048];
     int bytes_read;
     int listener = socket(AF_INET, SOCK_STREAM, 0);
